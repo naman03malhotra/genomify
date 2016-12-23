@@ -1,5 +1,5 @@
 <style type="text/css">
-  
+
 
 
 
@@ -33,7 +33,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">Genomify</a>
+      <a class="navbar-brand" href="/genomify">Genomify</a>
     </div>
     <div class="collapse navbar-collapse" id="navbar">
       <ul class="nav navbar-nav navbar-right">
@@ -43,9 +43,9 @@
           </ul>
         </li>
         
-        
+
       </ul>
-      
+
     </div>
   </div>
 </nav>
