@@ -1,6 +1,11 @@
 <?php
 ob_start();
 
+$ip = "";
+$user_name = "";
+$pwd = "";
+$db_name ="";
+
 function filter($big)
 {
 
@@ -65,7 +70,7 @@ function redirect($destination)
 }
 
 function query($q){
-	$connection = mysqli_connect("IP","USER_NAME","PASSWORD","DB_NAME");
+	$connection = mysqli_connect($ip,$user_name,$pwd,$db_name);
 	
 	$result=mysqli_query($connection, $q);
 	return $result;
