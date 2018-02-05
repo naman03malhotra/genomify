@@ -6,7 +6,7 @@ Insert new genome, search for a specific pattern of DNA in an organisms, longest
 
 # Live Demo
 
-  [https://letsconnect.co/genomify/] (https://letsconnect.co/genomify/)
+  [http://letsconnct-port-letsconnect.193b.starter-ca-central-1.openshiftapps.com/genomify/]
 
 # Features
 - Material UI.
